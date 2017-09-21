@@ -1,0 +1,6 @@
+.py[cod]
+*__pychache
+*.ipynb_checkpoints
+
+sample_notebook.html
+*.tpl
