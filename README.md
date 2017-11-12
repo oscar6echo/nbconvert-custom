@@ -20,3 +20,8 @@ I really wonder why nbconvert and consequently nbviewer (worse) is not up to dat
 ![](img/sample_notebook_hide.png)
 *Template: hide*
 
+### 3 - To Do
+
+Remove unecessary CSS injection when [nbconvert issue 704](https://github.com/jupyter/nbconvert/issues/704) is solved.  
+
+
